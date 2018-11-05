@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author:      Develoer1971
+      * Author:      Developer1971
       * Date:        24/10/2018
       * Purpose:     Test how COBOL datatypes are represented as bytes
       * Platform:    OpenCobolIDE
